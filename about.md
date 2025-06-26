@@ -13,4 +13,6 @@ I was never an outdoor person or anything. Despite growing up in west coast of C
 
 Mountains are fun - it keeps me humble and honest always. There is always something to learn.
 
+> "The world is your oyster. Don't feel that high accomplishments is necessary for acceptance."
+
 *Thank You for reading!*

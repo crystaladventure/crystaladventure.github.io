@@ -5,20 +5,12 @@ description: An optional about page for BlogBox Jekyll theme
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+My name is Crystal. Welcome to my blog! I created this blog because I found myself writing too much on Instagram and it wasn't the right place to share and capture all of my adventures! While this blog is mostly for myself, I hope you find my trip reports useful and fun to read too.
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+I was historically an Ultimate Frisbee athlete where I started in high school and played competitively for 20 years. During the latter years of my playing career, I wanted to find a different outlet. Some friends suggested that I try bouldering in an indoor gym and that's how I got into climbing.
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+I was never an outdoor person or anything. Despite growing up in west coast of Canada where there are plenty of mountains, I never went on a hike. Slowly over the years, I dabbled into different disciplines from bouldering, hiking, sport climbing, camping, snowboarding trad climbing, splitboarding, and etc... In recent years, I joined the Mountaineers, mountaineering club in Seattle out of complete randomness. I didn't know what I was getting into but somehow I met a bunch of new people, and somehow learned and linked a bunch of skills together.
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
-
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
-
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
-
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
-
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
+Mountains are fun - it keeps me humble and honest always. There is always something to learn.
 
 *Thank You for reading!*

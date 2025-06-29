@@ -8,6 +8,8 @@ tags: [alpine climbing, mountaineering, climbing]
 
 Alpine climbing - It's been a good few months in the mountaineering side of me! I've finished the "Winter Mountaineering Crevasse Rescue" (WMCR) and multi-pitch trad courses with the Mountaineers. I actually know how to trad and multi-pitch climb but it was really good practice getting more reps with more rope work and anchor building.
 
+<!--more-->
+
 With WMCR, I technically gained more knowledge in leading and navigating glacier travel but I think there is so much to learn here. We got to practice more in anchor building and crevasse rescues with different haul systems. Glacier travel can be so simple when things go well but assessing situations seem hard. I think this is going to be a multi-year honed skill and I'm going to continue needing mentorship. We had a trip out to Baker for crevasse rescue practice and a potential summit attempt. The weather didn't align so we didn't even attempted to summit but the extra practice was much needed.
 
 Trad climbing - I'm starting to really like to crack & trad climb and historically, this isn't my thing! I haven't even done a single pitch on sport this season. What are bolts again? There is so much good low 5th class alpine rock climbs around this region but as with all alpine climbs, you want to be very sure and competent at the moves. I feel like I really have my mental lead game these days and I'm not sure why.

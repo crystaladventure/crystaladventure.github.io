@@ -22,7 +22,7 @@ What's next? 🔥
 
 {% include image_full.html imageurl="/images/posts/baker2025/1.jpg" title="Baker trip" caption="My pack was very heavy" %}
 
-{% include image_full.html imageurl="/images/posts/baker2025/2.jpg" title="Baker trip" caption="Practising crevasse rescue of a 2-person rope team with a drop C" %}
+{% include image_full.html imageurl="/images/posts/baker2025/2.jpeg" title="Baker trip" caption="Practising crevasse rescue of a 2-person rope team with a drop C" %}
 
 {% include image_full.html imageurl="/images/posts/baker2025/4.jpg" title="Leavenworth trip" caption="Me trad leading third pitch" %}
 

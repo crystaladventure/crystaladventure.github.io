@@ -26,6 +26,7 @@ What's next? 🔥
 
 {% include image_full.html imageurl="/images/posts/baker2025/4.jpg" title="Leavenworth trip" caption="Me trad leading third pitch" %}
 
+{% include image_full.html imageurl="/images/posts/baker2025/IMG_4721.jpg" title="The Tooth" caption="Looking up to first pitch of the Tooth" %}
 
 
 

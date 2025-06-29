@@ -20,13 +20,13 @@ This was a humbling and learning experience because I genuinely thought that the
 
 What's next? 🔥
 
-{% include image_full.html imageurl="/images/posts/baker2025/1.jpg" title="Baker trip" caption="My pack was very heavy" %}
+{% include image_caption.html imageurl="/images/posts/baker2025/1.jpg" title="Baker trip" caption="My pack was very heavy" %}
 
-{% include image_full.html imageurl="/images/posts/baker2025/2.jpeg" title="Baker trip" caption="Practising crevasse rescue of a 2-person rope team with a drop C" %}
+{% include image_caption.html imageurl="/images/posts/baker2025/2.jpeg" title="Baker trip" caption="Practising crevasse rescue of a 2-person rope team with a drop C" %}
 
-{% include image_full.html imageurl="/images/posts/baker2025/4.jpg" title="Leavenworth trip" caption="Me trad leading third pitch" %}
+{% include image_caption.html imageurl="/images/posts/baker2025/4.jpg" title="Leavenworth trip" caption="Me trad leading" %}
 
-{% include image_full.html imageurl="/images/posts/baker2025/IMG_4721.jpg" title="The Tooth" caption="Looking up to first pitch of the Tooth" %}
+{% include image_caption.html imageurl="/images/posts/baker2025/IMG_4721.jpg" title="The Tooth" caption="Leading up third pitch of Ground Hog's Day" %}
 
 
 

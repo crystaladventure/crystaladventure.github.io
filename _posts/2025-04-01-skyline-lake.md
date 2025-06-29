@@ -20,6 +20,6 @@ While splitmo (splitboarding mountaineering) isn't super efficient, it's been fu
 
 {% include image_caption.html imageurl="/images/posts/skyline2025/1.jpg" title="WMCR women cohort" caption="All of us skinning or walking up" %}
 
-{% include image_caption.html imageurl="/images/posts/skyline2025/7.jpeg" title="Practising snow caves" caption="Digging out a snow cave" %}
+{% include image_caption.html imageurl="/images/posts/skyline2025/7.jpg" title="Practising snow caves" caption="Digging out a snow cave" %}
 
-{% include image_caption.html imageurl="/images/posts/skyline2025/8.heic" title="Emergency sledding" caption="Practising how to sled an injured person out" %}
+{% include image_caption.html imageurl="/images/posts/skyline2025/8.HEIC" title="Emergency sledding" caption="Practising how to sled an injured person out" %}

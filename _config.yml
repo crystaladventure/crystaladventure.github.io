@@ -41,8 +41,8 @@ navigation:
 # Author information - author info at the bottom of the post
 author_name: "Crystal"
 author_bio: "My name is Crystal. I like to run up and down things mostly on weekends. This blog is about my random adventures and things I've learned from it."
-author_url: "https://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_url: null
+author_location: "PNW"
 author_image: authorimage.jpg
 
 # Footer ad banner
